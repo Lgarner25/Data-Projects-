@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>Welcome to My Portfolio</h1>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>SQL Project - <strong>Coming Soon</strong></li>
+        <li>Capstone Project - <strong>Coming Soon</strong></li>
+        <li>Excel Project - <strong>Coming Soon</strong></li>
+    </ul>
+
+    <h2>About Me</h2>
+    <img src="profile.jpg" alt="My Headshot" width="150">
+    <p>Hi! I'm Lawrence Garner. I was born and raised in New Jersey. I have an interest in learning new things and trying new foods. I enjoy traveling, the gym
+ and reading books. I'm currently learning data analytics and working towards building a strong portfolio of projects.</p>
+
+    <h2>Contact Me</h2>
+    <p>Email: lawrencegarner32@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">My LinkedIn</a></p>
+</body>
+</html>
